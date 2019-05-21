@@ -1,4 +1,4 @@
-#CUDA_OPENGL
+# CUDA_OPENGL
 
 A simple demo that illustrates how to use cuda to update VBO in OpenGL.
 
